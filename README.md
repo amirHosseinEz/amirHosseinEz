@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Hello World, I'm AmirHossein!](asss.gif)](https://github.com/amirhosseinez)
-BSc in Computer Science from Shiraz University, with a strong interest in algorithms, graph theory, and artificial intelligence, particularly in machine learning.
+BSc in Computer Science from Shiraz University, with a strong interest in algorithms, graph theory, and machine learning.
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
