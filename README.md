@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 [![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+</div>
