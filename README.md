@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
+BSc in Computer Science from Shiraz University, with a strong interest in algorithms, graph theory, and artificial intelligence, particularly in machine learning.
