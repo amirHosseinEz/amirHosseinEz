@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-[![Hello World, I'm Jasper!](asss.gif)](https://github.com/kshyun28)
-<\div>
 
+[![Hello World, I'm Jasper!](asss.gif)](https://github.com/kshyun28)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
