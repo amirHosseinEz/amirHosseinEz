@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-</div>
+[![Hello World, I'm Amir!](header.gif)](https://github.com/amirhosseinez)</div>
