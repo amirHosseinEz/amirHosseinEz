@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
