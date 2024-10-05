@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Hello World, I'm AmirHossein!](asss.gif)](https://github.com/amirhosseinez)
+BSc in Computer Science from Shiraz University, with a strong interest in algorithms, graph theory, and artificial intelligence, particularly in machine learning.
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
-BSc in Computer Science from Shiraz University, with a strong interest in algorithms, graph theory, and artificial intelligence, particularly in machine learning.
